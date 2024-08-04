@@ -1,0 +1,37 @@
+/* Apply styles to the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Apply styles to the navigation menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+/* Apply styles to the main content */
+main {
+    padding: 20px;
+}
+
+/* Apply styles to the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Apply custom styles to Bootstrap components */
+.btn-custom {
+    background-color: #f00;
+    color: #fff;
+}
